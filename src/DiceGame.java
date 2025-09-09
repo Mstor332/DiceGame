@@ -9,6 +9,8 @@ public class DiceGame {
         int spillerScore = 2;
         int computerScore = 5;
 
+	System.out.println("Dette er en ny ændring i programmet");
+
         System.out.println("Velkommen til mit Black Jack Dice spil!");
         System.out.println("Vil du gerne starte spillet og slå med terningerne? ja/nej");
         String valg = scanner.nextLine();
